@@ -1,3 +1,4 @@
 musicnet/*
 classification/checkpoints/*
 generation/checkpoints/*
+transcription/checkpoints/*
